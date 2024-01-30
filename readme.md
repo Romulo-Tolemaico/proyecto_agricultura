@@ -3,7 +3,8 @@
 ## Instalacion
 
 1. Instala el entorno virtual: python -m venv venv
-2. Instala las dependencias: pip install -r requirements.txt
+2. Activar el entorno virutal: venv/Scripts/activate
+3. Instala las dependencias: pip install -r requirements.txt
 
 ## Uso
 
